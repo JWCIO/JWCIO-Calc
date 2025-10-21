@@ -1,4 +1,4 @@
-## Void Calculator
+## Calculator
 
 A simple, yet oddly philosophical, command-line calculator that performs basic arithmetic operations (addition, subtraction, multiplication, and division). It features a quirky personality and provides fun, fact-based or meme-worthy comments on certain results.
 
